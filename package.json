@@ -1,0 +1,27 @@
+{
+  "name": "portfolio3",
+  "version": "1.0.0",
+  "description": "Portfolio built with SCSS, Bootstrap, JS, and jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbevk94/portfolio3.git"
+  },
+  "author": "Beverly James",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "bugs": {
+    "url": "https://github.com/jbevk94/portfolio3/issues"
+  },
+  "homepage": "https://github.com/jbevk94/portfolio3#readme",
+  "devDependencies": {
+    "bootstrap": "^4.5.0",
+    "sass": "^1.26.5"
+  }
+}
